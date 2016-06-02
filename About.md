@@ -11,9 +11,9 @@ header-img: "img/plane.jpg"
 
 不相信娱乐致死，享受这个有“爱”的世界。
 
-最近家中杜宾生了小狗狗，需要的可以联系
+最近家中杜宾生了小狗狗，需要的可以联系。
 
-——Ollie
+                          ——Ollie
 
 
 > Live long and prosper
