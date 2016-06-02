@@ -2,9 +2,9 @@
 title: 猫狗窝
 header-img: "img/autumn2.jpg"
 tagline: "吉光片羽"  
-description: "睡醒了 又是一条好汉"  
+description: "wweishenmggggg"  
 baseurl: ""
-url: "http://"  
+url: ""  
 #url: "http://localhost:4000"
 
 # About/contact
@@ -17,12 +17,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.ico
 
-douban_username: Azeril
-twitter_username: Azeril_Lapland  
-github_username: Azeril  
-facebook_username: Azeril_Lapland  
-weibo_username: Azeril  
-zhihu_username: Azeril  
+douban_username: 
+twitter_username:  
+github_username:  
+facebook_username:  
+weibo_username:  
+zhihu_username:   
 
 # Build settings  
 # use Github Flavored Markdown !important  
