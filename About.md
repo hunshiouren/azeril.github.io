@@ -13,7 +13,7 @@ header-img: "img/plane.jpg"
 
 最近家中杜宾生了小狗狗，需要的可以联系。
 
-                          ——Ollie
+——Ollie
 
 
 > Live long and prosper
