@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "欢迎来逗我<（@￣︶￣@）>"
-header-img: "img/plane.jpg"
+header-img: "img/dog.jpg"
 ---
 
 <center>
