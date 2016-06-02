@@ -9,7 +9,7 @@ header-img: "img/plane.jpg"
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-不相信娱乐致死，享受这个有“爱”的世界。
+享受这个有“爱”的世界。
 
 最近家中杜宾生了小狗狗，需要的可以联系。
 
