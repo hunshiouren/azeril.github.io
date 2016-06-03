@@ -6,7 +6,7 @@ header-img: "img/dog.jpg"
 ---
 
 <center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
+    <p><img src="http://7xp5vc.com1.z0.glb.clouddn.com/head.png" align="center"></p>
 </center>
 
 享受这个有“爱”的世界。
@@ -16,8 +16,8 @@ header-img: "img/dog.jpg"
 ——Ollie
 
 
-> Live long and prosper
+
 
 <center>
-    <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
+    <p><img src="" align="center"></p>
 </center>
