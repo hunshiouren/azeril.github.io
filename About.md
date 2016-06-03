@@ -19,5 +19,5 @@ header-img: "img/dog.jpg"
 
 
 <center>
-    <p><img src="" align="center"></p>
+    <p><img src="http://7xp5vc.com1.z0.glb.clouddn.com/dog-yellow2.jpg" align="center"></p>
 </center>
