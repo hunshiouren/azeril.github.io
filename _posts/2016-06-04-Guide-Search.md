@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Search Guide 小指南
+title: Search 小指南
 categories: [blog ]
 tags: [guide, ]
 description: 简单总结search guide 方法
