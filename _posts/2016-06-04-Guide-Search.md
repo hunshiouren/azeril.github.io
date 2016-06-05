@@ -10,7 +10,7 @@ description: 简单总结search guide 方法
 * " " 限定：限定某个内容为关键词，搜索结果无关键词外延
 * \* 模糊搜索: 关键词的省略替代
 * \- 排除：减去不想要的结果  
-* 「site:xxx.com Keyword」限定站点搜索：站内搜索关键词，但需借口开放，例如微信只对搜狐开放API
+* 「site:xxx.com Keyword」限定站点搜索：站内搜索关键词，但需接口开放，例如微信只对搜狐开放API
 * 形容词限定搜索范围
 * 「filetype:pdf/word/ppt/jpg/git Keyword」类别搜索：搜索特定的文档类型
 * 「or」多重搜索：类似于“或”；默认情况下空格类似于“和”  
